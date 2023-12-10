@@ -2,3 +2,4 @@ EPIE_Corpus/
 idesk/
 .DS_Store
 .idea/
+__pycache__/
